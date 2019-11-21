@@ -10,5 +10,8 @@
     ],
     "profile": {
       "name": "typicode"
-    }
+    },
+    "version": {
+        "version_number": 13
+      }
   }
